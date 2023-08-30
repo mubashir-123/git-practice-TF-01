@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            display: inline-block;
+        }
+        label{
+            font-size: 19px;
+            font-weight: 300;
+        }
+        fieldset{
+            font-size: 20px;
+            font-weight: 300;
+        }
+        .main{
+            margin-left: 30%;
+            margin-top: 30px;
+        }
+        .cont1{
+            background-color: rgb(51, 133, 209);
+            padding-right: 20px;
+            padding-left: 20px;
+            font-size: 20px;
+        }
+        .cont2{
+            background-color: rgb(167, 181, 194);
+            padding-right: 20px;
+            padding-left: 20px;
+            margin-left: -5px;
+            font-size: 20px;
+        }
+        .image{
+            height: 40px;
+            width: 120px;
+        }
+        .form{
+            margin-top: 30px;
+            margin-left: 30%;
+            width: 620px;
+        }
+        .label{
+            margin-bottom: 15px;
+            display: block;
+        }
+        
+    </style>
+</head>
+<body>
+    <div class="main">
+    <div class="cont1">
+        <p><b>Step1: Account</b></p>
+    </div>
+    <div class="cont2">
+        <p><b>Step2: Personal Details</b></p> 
+    </div>
+    <div class="cont2">
+        <p><b>Step3: Your Review</b></p>
+    </div>
+</div>
+<div class="form">
+    <fieldset>
+        <legend>Account</legend>
+        <label>Email: 
+        <input class="label" type="email" placeholder="E-mail" size="65px">
+        </label>
+        <label>Password:
+        <input  class="label" type="password" placeholder="password" size="65px">
+        </label>
+        <label>Confirm password:
+        <input class="label" type="password" placeholder="Confirm password" size="65px">  
+        </label> <br>
+        <img class ="image" src="back.png" alt="back">
+        <img class ="image" src="next.png" alt="forward">
+    </fieldset>
+</div>
+</body>
+</html>
