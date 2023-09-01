@@ -1,0 +1,131 @@
+.heading{
+    background-color:#FFF95D;
+    text-align: center;
+    font-size: 80px;
+    font-weight: 600;
+    margin-bottom: 3px;
+   }
+td{
+    padding-left: 17px;
+    padding-right: 17px;
+    padding-top: 1px;
+    padding-bottom: 7px;
+    text-align: center;
+    font-weight: bold;
+}  
+.tb{
+    margin-left: 130px;
+}
+.tb2{
+    margin-top: 10px;
+    margin-left: 80px;
+}
+p{
+    margin-top: 6px;
+    font-size: 12px;
+    margin-bottom: -20px;
+}
+.xsmall{
+    font-size: 10px;
+    padding-bottom: 17px;
+}
+.green-pink{
+    background-color: #FF9966;
+    color: #008443;
+    border: 1px solid black;
+}
+.black-purple{
+    color: black;
+    background-color: #DDA0DD;
+    border: 1px solid black;
+}
+.blue-purple{
+    background-color: #DDA0DD;
+    color: #003EEA;
+    border: 1px solid black;
+}
+.black-blue{
+    background-color: #90C7FF;
+    color: black;
+    border: 1px solid black;
+}
+.black-yellow{
+    background-color: #FFF28E;
+    color: black;
+    border: 1px solid black;
+}
+.brown-yellow{
+    background-color: #FFF28E;
+    color: #D0522A;
+    border: 1px solid black;
+}
+.blue-yelllow{
+    background-color: #FFF28E;
+    color: #0000FE;
+    border: 1px solid black;
+}
+.black-pink{
+    background-color: #FCEFF0;
+    color: black;
+    border: 1px solid black;
+}
+.blue-pink{
+    background-color: #FCEFF0;
+    color: #0000FE;
+    border: 1px solid black;
+}
+.brown-white{
+    background-color: white;
+    color: #D0522A;
+    border: 1px solid black;
+}
+.brown-pink{
+    background-color: #FCEFF0;
+    color: #B42A53;
+    border: 1px solid black;
+}
+.black-green{
+    background-color: #CDEB8B;
+    color: black;
+    border: 1px solid black;
+}
+.black-golden{
+    background-color: #C79810;
+    color: black;
+    border: 1px solid black;
+}
+.blue-green{
+    background-color: #CDEB8B;
+    color: #0000FE;
+    border: 1px solid black;
+}
+.black-platuim{
+    background-color: #EBDCA9;
+    color: black;
+    border: 1px solid black;
+}
+.blue-platuim{
+    background-color:#EBDCA9 ;
+    color: #0000FE;
+    border: 1px solid black;
+}
+.green-platuim{
+    background-color: #EBDCA9;
+    color: #008443;
+    border: 1px solid black;
+}
+.black-orange{
+    background-color: #FF9966;
+    color: black;
+    border: 1px solid black;
+}
+.green-orange{
+    background-color: #FF9966;
+    color: #008443;
+    border: 1px solid black;
+}
+.green-skyblue{
+    background-color: #E6E6FA;
+    color: #008443;
+    border: 1px solid black;
+}
