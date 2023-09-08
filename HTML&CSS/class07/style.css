@@ -1,0 +1,31 @@
+ *{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+     } 
+.main{
+    display: inline-block;
+    color: white;
+}
+.list{
+    display: inline-block;
+    width: 1000px;
+    text-align: end;
+}
+li{
+    display: inline-block;
+    padding-left: 40px ;
+    font-weight: bold;
+    color: white;
+}
+body{
+    background-color: rgba(62, 143, 180, 0.801);
+}
+.nav{
+    background-color:rgb(18, 89, 110) ;
+    padding-bottom: 5px;
+}
+li:hover{
+    color: rgb(0, 217, 255);
+    cursor: pointer;
+}
